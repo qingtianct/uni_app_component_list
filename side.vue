@@ -1,4 +1,4 @@
-
+//侧滑删除
 <template>
 	<view class="liu-slide">
 		<view
